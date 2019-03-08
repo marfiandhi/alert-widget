@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Tugas Alert Widget</string>
+    <string-array name="religion_array">
+        <item>Islam</item>
+        <item>Kristen</item>
+        <item>Hindu</item>
+        <item>Buddha</item>
+    </string-array>
+
+</resources>
